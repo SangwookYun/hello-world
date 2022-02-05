@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h2>Sangwook Yun</h2>
+    <h2>Bae Jeongyeon</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -16,6 +17,7 @@
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
+
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
